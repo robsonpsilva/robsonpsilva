@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 ## Technologies and Tools
 
-- Proficient in: JAVA, PYTHON, C# e OutSystems. Responsive Web Development, Oracle And MySQl database.
+- Proficient in: JAVA, PYTHON, C#, OutSystems, Responsive Web Development, Oracle And MySQl database.
 - Skills: Team Management, Agile Method, Problem Solving and Analytical Thinking
 
 ## Let's Connect!
