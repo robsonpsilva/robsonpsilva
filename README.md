@@ -20,6 +20,16 @@ Welcome to my GitHub profile!
 - Proficient in: JAVA, PYTHON, C#, OutSystems, Responsive Web Development, Oracle And MySQl database.
 - Skills: Team Management, Agile Method, Problem Solving and Analytical Thinking
 
+## Main Projects
+- Operational mobility for explosive areas
+  - I was the project manager and architect for a solution developed using: Intrinsically Safe Mobile Devices, Asset Management Tool – ServiceNow, 4G mobile network, FireMonkey, Oracle Database and industrial maintenance management           systems. All software was deployed on on-premises servers at a large oil company for security reasons. We chose to use Oracle Database for its reliability and scalability features, essential for the high volumes of data in our operation.
+
+- GDPR management system
+  - I was the project manager for a GDPR management system built using OutSystems technology, Oracle database, and various integrations with services via restful API.
+
+- IT Operational Improvement
+  - Multiplatform project for technological upgrade of hundreds of corporate systems, covering platforms such as Notes, Lumis, Delphi, ARS, eDoc, Sharepoint and GIS. Consisting of the upgrade, replacement or decommissioning of platforms,     according to the usage scenario and annual operational and maintenance costs.
+
 ## Let's Connect!
 - Here is my [LinkedIn](www.linkedin.com/in/robson-paulo-da-silva-52605433) profile.
 - Here is my [WhatsApp](+55 21 995535639) contact.
